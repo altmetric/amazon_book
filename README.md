@@ -79,6 +79,6 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/altmet
 
 ## License
 
-Copyright © 2017 Altmetric LLP
+Copyright © 2017-2024 Altmetric LLP
 
 Distributed under the MIT License.
